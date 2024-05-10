@@ -1,2 +1,2 @@
-# media-parry
-media parry
+# media-query
+media query
